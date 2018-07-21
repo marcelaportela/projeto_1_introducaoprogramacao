@@ -43,7 +43,7 @@ a:hover {
 .navbar-default .navbar-header .navbar-brand {
   width:200px;
   height:46px;
-  background-image: url('http://www.mobileufrpe.com.br/olinda/img/logo-olinda.svg');
+  /**background-image: url('http://www.mobileufrpe.com.br/olinda/img/logo-olinda.svg');**/
   background-repeat: no-repeat;
   margin: 5px 0 5px 10px;
 }
